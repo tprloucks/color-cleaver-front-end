@@ -8,7 +8,7 @@ This is our chance to make the full app version of [color-cleaver-backend](https
 
 The entire back end has been completed for you. (Thanks, back end engineer!)
 
-You'll be working entirely in `main.js`. Your only concern is taking input from the user's terminal and outputting some correct (and kind) messages.
+You'll be working entirely in `color-cleaver.js`. Your only concern is taking input from the user's terminal (via `node color-cleaver.js [color 1] [optional color 2]`) and outputting some correct (and kind) messages.
 
 No need to run tests, though you can just to check. Our backend elves have a functioning prototype, they just need an interface to it!
 
